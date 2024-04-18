@@ -1,0 +1,16 @@
+{
+    "name": "war-back",
+    "author": "FrostSigil",
+    "description": "warrior back  duplicate",
+    "options": {
+        "cliName": "war back support",
+        "guiName": "war back support",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/war-back/master/"],
+    "version": "18/4/2024",
+    "disableAutoUpdate": false
+}
